@@ -9,7 +9,27 @@ Link:
 ## Data Story
 
 <p align="center">
-  <img src="audio-features-song-popularity_files/residplots.png">
+  <img src="images/pic5.png">
+</p>
+
+<p align="center">
+  <img src="images/pic6.png">
+</p>
+
+<p align="center">
+  <img src="images/pic1.png">
+</p>
+
+<p align="center">
+  <img src="images/pic2.png">
+</p>
+
+<p align="center">
+  <img src="images/pic3.png">
+</p>
+
+<p align="center">
+  <img src="images/pic4.png">
 </p>
 
 ## Summary of Findings
