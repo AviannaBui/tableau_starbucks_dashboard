@@ -14,7 +14,7 @@ I also used the [Official Starbucks Nutritional Dataset](https://github.com/rfor
 
 <p align="center">
   <img src="images/pic5.png">
-  <em>"Over half of Starbucks drinks exceeded the recommended daily sugar intake"</em>
+  <figcaption>Over half of Starbucks drinks exceeded the recommended daily sugar intake</figcaption>
 </p>
 
 <p align="center">
